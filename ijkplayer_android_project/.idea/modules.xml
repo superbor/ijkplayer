@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ijkplayer_android_project.iml" filepath="$PROJECT_DIR$/ijkplayer_android_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jB/jB.iml" filepath="$PROJECT_DIR$/../jB/jB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jba.iml" filepath="$PROJECT_DIR$/../jba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library_media/library_media.iml" filepath="$PROJECT_DIR$/../library_media/library_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lubanlibrary/lubanlibrary.iml" filepath="$PROJECT_DIR$/../lubanlibrary/lubanlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pullToRefreshlibrary/pullToRefreshlibrary.iml" filepath="$PROJECT_DIR$/../pullToRefreshlibrary/pullToRefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recyclerView_bin_ly/recyclerView_bin_ly.iml" filepath="$PROJECT_DIR$/../recyclerView_bin_ly/recyclerView_bin_ly.iml" />
+    </modules>
+  </component>
+</project>

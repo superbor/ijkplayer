@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v7-preference">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/jniLibs/android-support-v7-preference.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
